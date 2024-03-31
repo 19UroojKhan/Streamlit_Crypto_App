@@ -22,4 +22,5 @@ Time Series Analysis: Time series charts displaying the closing prices of the se
 Historical Data: Users can access historical closing prices for the selected cryptocurrencies to analyze trends and patterns over time.
 Comparative Analysis: Comparative charts allowing users to compare the closing prices of different cryptocurrencies side by side. This feature enables users to identify correlations and differences in price movements.
 
-# SCREENSHOTS 
+# SCREENSHOTS
+<img width="375" alt="Screenshot 2024-03-31 at 5 53 50 PM" src="https://github.com/19UroojKhan/Streamlit_Crypto_App/assets/67606435/0092b75e-fc14-4d54-99d0-edf59010567b">
