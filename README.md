@@ -27,3 +27,6 @@ Comparative Analysis: Comparative charts allowing users to compare the closing p
 
 
 <img width="486" alt="Screenshot 2024-03-31 at 5 56 01 PM" src="https://github.com/19UroojKhan/Streamlit_Crypto_App/assets/67606435/2d8dd4ba-4704-4eb0-8a74-e0174fb49807">
+
+# CONCLUSION 
+The Cryptocurrency Dashboard App built with Python and Streamlit offers users a user-friendly and intuitive tool for tracking cryptocurrency prices and trends. By leveraging real-time data and interactive visualizations, the dashboard enables users to make informed decisions regarding cryptocurrency investments and trading strategies. Future enhancements may include adding additional features such as price alerts, technical indicators, and sentiment analysis.
