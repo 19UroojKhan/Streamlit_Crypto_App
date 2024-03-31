@@ -24,3 +24,5 @@ Comparative Analysis: Comparative charts allowing users to compare the closing p
 
 # SCREENSHOTS
 <img width="375" alt="Screenshot 2024-03-31 at 5 53 50 PM" src="https://github.com/19UroojKhan/Streamlit_Crypto_App/assets/67606435/0092b75e-fc14-4d54-99d0-edf59010567b">
+
+<img width="486" alt="Screenshot 2024-03-31 at 5 56 01 PM" src="https://github.com/19UroojKhan/Streamlit_Crypto_App/assets/67606435/2d8dd4ba-4704-4eb0-8a74-e0174fb49807">
